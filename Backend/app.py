@@ -1,8 +1,10 @@
 from flask import Flask, request, jsonify
 import joblib
 import math
-
+from flask_cors import CORS
 app = Flask(__name__)
+
+CORS(app, resources={r"/getPrice": {"origins": "http://localhost:3000"}})
 
 # with open ('DynamicPrice.pkl','rb') as file:
 #     model = pickle.load(file)
