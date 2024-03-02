@@ -1,12 +1,14 @@
 from flask import Flask, request, jsonify
 import joblib
+import math
 
 app = Flask(__name__)
 
 # with open ('DynamicPrice.pkl','rb') as file:
 #     model = pickle.load(file)
 
-model = joblib.load('DynamicPrice.joblib')
+# model = joblib.load('DynamicPrice.joblib')
+model = joblib.load('DynamicPricingFinal.joblib')
 @app.route("/")
 def hello():
     return "Hello World!"
@@ -19,16 +21,22 @@ def getPrice():
     if service == 'App':
         service = 0
     elif service == 'Docs':
-        service = 1
-    elif service == 'PPT':
         service = 2
+    elif service == 'PPT':
+        service = 5
     elif service == 'Website':
+        service = 6
+    elif service == 'Backend':
+        service = 1
+    elif service == 'Frontend':
+        service = 4
+    elif service == 'Figma':
         service = 3
     pages = response['no_of_pages']
     deadline = response['days']
     print(service, pages, deadline)
     price = model.predict([[service, pages, deadline]])
-    return jsonify({'price': price[0]})
+    return jsonify({'price': math.ceil(price[0])})
 
 
 
