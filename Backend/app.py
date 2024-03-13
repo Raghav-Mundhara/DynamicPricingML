@@ -6,10 +6,6 @@ app = Flask(__name__)
 
 CORS(app, resources={r"/getPrice": {"origins": "http://localhost:3000"}})
 
-# with open ('DynamicPrice.pkl','rb') as file:
-#     model = pickle.load(file)
-
-# model = joblib.load('DynamicPrice.joblib')
 model = joblib.load('DynamicPricingFinal.joblib')
 @app.route("/")
 def hello():
