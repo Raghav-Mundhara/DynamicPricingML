@@ -1,12 +1,17 @@
 from flask import Flask, request, jsonify
 import joblib
 import math
+from textblob import TextBlob
 from flask_cors import CORS
 app = Flask(__name__)
 
-CORS(app, resources={r"/getPrice": {"origins": "http://localhost:3000"}})
-
+CORS(app, resources={
+    r"/getPrice": {"origins": "http://localhost:3000"},
+    r"/getReview": {"origins": "http://localhost:3000"}
+})
 model = joblib.load('DynamicPricingFinal.joblib')
+reviewModel= joblib.load('reviews.joblib')
+
 @app.route("/")
 def hello():
     return "Hello World!"
@@ -36,6 +41,199 @@ def getPrice():
     price = model.predict([[service, pages, deadline]])
     return jsonify({'price': math.ceil(price[0])})
 
+@app.route("/getReviews", methods=['POST'])
+def getReviews():
+    response = request.get_json()
+    print(response)
+    review = response['review']
+    sentiment = reviewModel.predict([review])
+    return jsonify({'sentiment': sentiment})
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@app.route("/getReview", methods=['POST'])
+def getReview():
+    response = request.get_json()
+    print(response)
+
+    review = response['review']
+    # sentiment = reviewModel.predict([review])
+    text=TextBlob(review)
+
+    return jsonify({'sentiment':text.sentiment})
 
 
 if __name__ == "__main__":

@@ -1,0 +1,1001 @@
+client_email,freelancer_email,service,project_name,review,sentiment
+nishtha@gmail.com,anushka@gmail.com,app,Project 0,I appreciate the effort put into the app project by anushka@gmail.com. Well done!,Neutral
+raghav@gmail.com,kaushik@gmail.com,website,Project 1,I appreciate the effort put into the website project by kaushik@gmail.com. Well done!,Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 2,The backend provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,test@gmail.com,docs,Project 3,The docs provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,test@gmail.com,website,Project 4,I have mixed feelings about the website project provided by test@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,raghav@gmail.com,figma,Project 5,The figma work done by raghav@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,raghav@gmail.com,docs,Project 6,The docs developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,nishtha@gmail.com,frontend,Project 7,The frontend work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,ppt,Project 8,The ppt provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,test@gmail.com,app,Project 9,I'm indifferent about the app project provided by test@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,nishtha@gmail.com,docs,Project 10,nishtha@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+test@gmail.com,anushka@gmail.com,website,Project 11,The website provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,kaushik@gmail.com,ppt,Project 12,I'm indifferent about the ppt project provided by kaushik@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,nishtha@gmail.com,app,Project 13,The app provided by nishtha@gmail.com was not up to standard. I won't be working with them again.,Neutral
+kaushik@gmail.com,raghav@gmail.com,app,Project 14,I'm regretting hiring raghav@gmail.com for the app project. The quality of work was poor.,Negative
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 15,I have mixed feelings about the frontend project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 16,I'm unhappy with the frontend created by kaushik@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,raghav@gmail.com,app,Project 17,I'm regretting hiring raghav@gmail.com for the app project. The quality of work was poor.,Negative
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 18,The ppt provided by nishtha@gmail.com was not up to standard. I won't be working with them again.,Neutral
+kaushik@gmail.com,raghav@gmail.com,frontend,Project 19,The frontend developed by raghav@gmail.com had several issues and was delivered late. Not recommended.,Positive
+kaushik@gmail.com,nishtha@gmail.com,ppt,Project 20,The ppt developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,anushka@gmail.com,website,Project 21,"The website provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,test@gmail.com,app,Project 22,"The app work done by test@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,test@gmail.com,docs,Project 23,test@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+raghav@gmail.com,nishtha@gmail.com,docs,Project 24,I appreciate the effort put into the docs project by nishtha@gmail.com. Well done!,Neutral
+anushka@gmail.com,kaushik@gmail.com,ppt,Project 25,The ppt developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,test@gmail.com,app,Project 26,test@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+raghav@gmail.com,nishtha@gmail.com,docs,Project 27,I'm unhappy with the docs created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+test@gmail.com,raghav@gmail.com,figma,Project 28,The figma work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,anushka@gmail.com,backend,Project 29,I'm dissatisfied with the backend project. Communication with anushka@gmail.com was poor.,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 30,I appreciate the effort put into the backend project by test@gmail.com. Well done!,Neutral
+kaushik@gmail.com,test@gmail.com,ppt,Project 31,ppt created by test@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,test@gmail.com,website,Project 32,I appreciate the effort put into the website project by test@gmail.com. Well done!,Neutral
+test@gmail.com,anushka@gmail.com,figma,Project 33,The figma developed by anushka@gmail.com had several issues and was delivered late. Not recommended.,Positive
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 34,The ppt work done by kaushik@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,nishtha@gmail.com,frontend,Project 35,I have mixed feelings about the frontend project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,test@gmail.com,docs,Project 36,The docs developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,raghav@gmail.com,website,Project 37,The website provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,test@gmail.com,docs,Project 38,The docs provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,frontend,Project 39,frontend created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,nishtha@gmail.com,website,Project 40,The website provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,test@gmail.com,ppt,Project 41,The ppt created by test@gmail.com was decent. It served its purpose adequately.,Neutral
+anushka@gmail.com,anushka@gmail.com,ppt,Project 42,The ppt work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,anushka@gmail.com,app,Project 43,The app provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,test@gmail.com,frontend,Project 44,The frontend developed by test@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,docs,Project 45,I appreciate the effort put into the docs project by raghav@gmail.com. Well done!,Neutral
+raghav@gmail.com,kaushik@gmail.com,docs,Project 46,I appreciate the effort put into the docs project by kaushik@gmail.com. Well done!,Neutral
+raghav@gmail.com,anushka@gmail.com,website,Project 47,The website provided by anushka@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 48,I'm extremely satisfied with the ppt developed by nishtha@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,raghav@gmail.com,frontend,Project 49,I'm delighted with the frontend project delivered by raghav@gmail.com. It's perfect!,Positive
+raghav@gmail.com,nishtha@gmail.com,website,Project 50,"The website work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 51,The frontend provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,kaushik@gmail.com,backend,Project 52,I'm delighted with the backend project delivered by kaushik@gmail.com. It's perfect!,Positive
+raghav@gmail.com,kaushik@gmail.com,website,Project 53,The website provided by kaushik@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,app,Project 54,"Unfortunately, the app provided by nishtha@gmail.com did not meet my expectations. Disappointed.",Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 55,The docs provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+test@gmail.com,raghav@gmail.com,docs,Project 56,I'm extremely satisfied with the docs developed by raghav@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,raghav@gmail.com,ppt,Project 57,"The ppt work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+nishtha@gmail.com,raghav@gmail.com,figma,Project 58,I'm indifferent about the figma project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,anushka@gmail.com,docs,Project 59,I'm very satisfied with the docs created by anushka@gmail.com. Excellent work!,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 60,The backend work done by test@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,raghav@gmail.com,backend,Project 61,The backend work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,nishtha@gmail.com,app,Project 62,I'm unhappy with the app created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+test@gmail.com,test@gmail.com,ppt,Project 63,ppt created by test@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,anushka@gmail.com,backend,Project 64,The backend work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,raghav@gmail.com,frontend,Project 65,I'm extremely disappointed with the frontend created by raghav@gmail.com. It's not usable at all.,Negative
+test@gmail.com,nishtha@gmail.com,figma,Project 66,The figma provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,app,Project 67,"Unfortunately, the app provided by nishtha@gmail.com did not meet my expectations. Disappointed.",Neutral
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 68,I appreciate the effort put into the frontend project by nishtha@gmail.com. Well done!,Neutral
+nishtha@gmail.com,kaushik@gmail.com,backend,Project 69,I'm neutral about the backend project delivered by kaushik@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 70,I'm regretting hiring nishtha@gmail.com for the frontend project. The quality of work was poor.,Negative
+test@gmail.com,nishtha@gmail.com,backend,Project 71,I'm indifferent about the backend project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,test@gmail.com,app,Project 72,The app work done by test@gmail.com was average. It could have been better.,Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 73,"The docs provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,nishtha@gmail.com,app,Project 74,The app provided by nishtha@gmail.com was not up to standard. I won't be working with them again.,Neutral
+anushka@gmail.com,anushka@gmail.com,backend,Project 75,The backend provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,raghav@gmail.com,app,Project 76,The app developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 77,The frontend work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,nishtha@gmail.com,ppt,Project 78,I'm delighted with the ppt project delivered by nishtha@gmail.com. It's perfect!,Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 79,I'm very satisfied with the app created by raghav@gmail.com. Excellent work!,Positive
+test@gmail.com,nishtha@gmail.com,backend,Project 80,The backend work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 81,docs created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,raghav@gmail.com,website,Project 82,The website developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 83,The docs provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,nishtha@gmail.com,backend,Project 84,The backend provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,nishtha@gmail.com,backend,Project 85,The backend developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,kaushik@gmail.com,website,Project 86,The website provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 87,I'm dissatisfied with the backend project. Communication with test@gmail.com was poor.,Positive
+test@gmail.com,test@gmail.com,frontend,Project 88,The frontend work done by test@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,anushka@gmail.com,figma,Project 89,The figma work done by anushka@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,kaushik@gmail.com,app,Project 90,I'm very satisfied with the app created by kaushik@gmail.com. Excellent work!,Positive
+test@gmail.com,kaushik@gmail.com,frontend,Project 91,I'm extremely satisfied with the frontend developed by kaushik@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,anushka@gmail.com,frontend,Project 92,I'm regretting hiring anushka@gmail.com for the frontend project. The quality of work was poor.,Negative
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 93,The frontend provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 94,The ppt developed by anushka@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,anushka@gmail.com,website,Project 95,I'm dissatisfied with the website project. Communication with anushka@gmail.com was poor.,Positive
+anushka@gmail.com,kaushik@gmail.com,docs,Project 96,The docs developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 97,The frontend work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,kaushik@gmail.com,backend,Project 98,The backend developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,nishtha@gmail.com,website,Project 99,nishtha@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,test@gmail.com,figma,Project 100,test@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+kaushik@gmail.com,raghav@gmail.com,website,Project 101,I'm extremely satisfied with the website developed by raghav@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,test@gmail.com,backend,Project 102,"The backend provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 103,kaushik@gmail.com failed to deliver a satisfactory ppt project. It was a waste of time and money.,Negative
+kaushik@gmail.com,anushka@gmail.com,app,Project 104,"Unfortunately, the app provided by anushka@gmail.com did not meet my expectations. Disappointed.",Neutral
+kaushik@gmail.com,nishtha@gmail.com,website,Project 105,website created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+raghav@gmail.com,anushka@gmail.com,website,Project 106,The website provided by anushka@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,nishtha@gmail.com,backend,Project 107,"The backend provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+kaushik@gmail.com,test@gmail.com,figma,Project 108,I'm delighted with the figma project delivered by test@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 109,raghav@gmail.com provided an okay ppt project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,figma,Project 110,I'm delighted with the figma project delivered by kaushik@gmail.com. It's perfect!,Positive
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 111,I'm neutral about the frontend project delivered by anushka@gmail.com. It was neither exceptional nor disappointing.,Positive
+test@gmail.com,test@gmail.com,frontend,Project 112,test@gmail.com provided an okay frontend project. It was neither good nor bad.,Neutral
+test@gmail.com,anushka@gmail.com,app,Project 113,I'm delighted with the app project delivered by anushka@gmail.com. It's perfect!,Positive
+anushka@gmail.com,anushka@gmail.com,ppt,Project 114,I'm indifferent about the ppt project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,test@gmail.com,app,Project 115,I'm dissatisfied with the app project. Communication with test@gmail.com was poor.,Positive
+test@gmail.com,raghav@gmail.com,frontend,Project 116,The frontend developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,kaushik@gmail.com,figma,Project 117,The figma provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+raghav@gmail.com,raghav@gmail.com,docs,Project 118,I'm indifferent about the docs project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 119,I'm extremely satisfied with the docs developed by kaushik@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,raghav@gmail.com,ppt,Project 120,ppt created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,test@gmail.com,figma,Project 121,"The figma provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+anushka@gmail.com,raghav@gmail.com,backend,Project 122,The backend developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,app,Project 123,I'm indifferent about the app project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,kaushik@gmail.com,app,Project 124,I appreciate the effort put into the app project by kaushik@gmail.com. Well done!,Neutral
+kaushik@gmail.com,anushka@gmail.com,docs,Project 125,The docs provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,frontend,Project 126,I have mixed feelings about the frontend project provided by anushka@gmail.com. It was neither great nor terrible.,Positive
+test@gmail.com,nishtha@gmail.com,app,Project 127,The app work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,raghav@gmail.com,frontend,Project 128,I'm indifferent about the frontend project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,raghav@gmail.com,frontend,Project 129,frontend created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,test@gmail.com,backend,Project 130,I'm extremely disappointed with the backend created by test@gmail.com. It's not usable at all.,Negative
+test@gmail.com,anushka@gmail.com,website,Project 131,I have mixed feelings about the website project provided by anushka@gmail.com. It was neither great nor terrible.,Positive
+anushka@gmail.com,test@gmail.com,figma,Project 132,I'm regretting hiring test@gmail.com for the figma project. The quality of work was poor.,Negative
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 133,"Unfortunately, the figma provided by nishtha@gmail.com did not meet my expectations. Disappointed.",Neutral
+raghav@gmail.com,raghav@gmail.com,frontend,Project 134,frontend created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 135,The frontend created by anushka@gmail.com was decent. It served its purpose adequately.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,frontend,Project 136,I'm extremely disappointed with the frontend created by nishtha@gmail.com. It's not usable at all.,Negative
+kaushik@gmail.com,anushka@gmail.com,figma,Project 137,I appreciate the effort put into the figma project by anushka@gmail.com. Well done!,Neutral
+test@gmail.com,raghav@gmail.com,website,Project 138,The website work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,test@gmail.com,app,Project 139,I'm extremely satisfied with the app developed by test@gmail.com. Thank you so much!,Positive
+test@gmail.com,test@gmail.com,figma,Project 140,The figma provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,test@gmail.com,website,Project 141,website created by test@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,test@gmail.com,website,Project 142,The website developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,test@gmail.com,app,Project 143,"Unfortunately, the app provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+nishtha@gmail.com,raghav@gmail.com,docs,Project 144,I'm extremely satisfied with the docs developed by raghav@gmail.com. Thank you so much!,Positive
+test@gmail.com,nishtha@gmail.com,website,Project 145,The website work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+raghav@gmail.com,test@gmail.com,app,Project 146,test@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,anushka@gmail.com,figma,Project 147,I'm neutral about the figma project delivered by anushka@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,test@gmail.com,docs,Project 148,I'm very satisfied with the docs created by test@gmail.com. Excellent work!,Positive
+anushka@gmail.com,test@gmail.com,figma,Project 149,I'm extremely satisfied with the figma developed by test@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,nishtha@gmail.com,docs,Project 150,I have mixed feelings about the docs project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 151,frontend created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,raghav@gmail.com,app,Project 152,I'm regretting hiring raghav@gmail.com for the app project. The quality of work was poor.,Negative
+raghav@gmail.com,anushka@gmail.com,website,Project 153,I'm neutral about the website project delivered by anushka@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,raghav@gmail.com,docs,Project 154,The docs created by raghav@gmail.com was decent. It served its purpose adequately.,Neutral
+test@gmail.com,raghav@gmail.com,app,Project 155,The app work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,nishtha@gmail.com,website,Project 156,website created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,nishtha@gmail.com,frontend,Project 157,The frontend work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 158,nishtha@gmail.com provided an okay frontend project. It was neither good nor bad.,Neutral
+raghav@gmail.com,test@gmail.com,frontend,Project 159,test@gmail.com provided an okay frontend project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,anushka@gmail.com,website,Project 160,The website work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,nishtha@gmail.com,docs,Project 161,docs created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+raghav@gmail.com,nishtha@gmail.com,website,Project 162,The website work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 163,"The figma provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 164,The docs provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,website,Project 165,The website developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 166,I'm delighted with the ppt project delivered by kaushik@gmail.com. It's perfect!,Positive
+raghav@gmail.com,test@gmail.com,ppt,Project 167,"The ppt work done by test@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,raghav@gmail.com,backend,Project 168,The backend developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,kaushik@gmail.com,figma,Project 169,I'm neutral about the figma project delivered by kaushik@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,nishtha@gmail.com,app,Project 170,I'm extremely satisfied with the app developed by nishtha@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,anushka@gmail.com,docs,Project 171,docs created by anushka@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,anushka@gmail.com,figma,Project 172,The figma work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,anushka@gmail.com,figma,Project 173,The figma provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 174,I'm delighted with the ppt project delivered by raghav@gmail.com. It's perfect!,Positive
+raghav@gmail.com,test@gmail.com,frontend,Project 175,I'm very satisfied with the frontend created by test@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,test@gmail.com,backend,Project 176,I'm regretting hiring test@gmail.com for the backend project. The quality of work was poor.,Negative
+nishtha@gmail.com,anushka@gmail.com,figma,Project 177,The figma work done by anushka@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 178,The frontend provided by kaushik@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,anushka@gmail.com,ppt,Project 179,anushka@gmail.com provided an okay ppt project. It was neither good nor bad.,Neutral
+raghav@gmail.com,anushka@gmail.com,docs,Project 180,The docs provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+kaushik@gmail.com,raghav@gmail.com,website,Project 181,I'm extremely disappointed with the website created by raghav@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 182,frontend created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+raghav@gmail.com,test@gmail.com,website,Project 183,The website provided by test@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,test@gmail.com,ppt,Project 184,I appreciate the effort put into the ppt project by test@gmail.com. Well done!,Neutral
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 185,The docs developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,raghav@gmail.com,figma,Project 186,"The figma work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,test@gmail.com,app,Project 187,The app provided by test@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,anushka@gmail.com,app,Project 188,I'm indifferent about the app project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 189,I'm unhappy with the backend created by test@gmail.com. It wasn't what I expected.,Neutral
+raghav@gmail.com,nishtha@gmail.com,backend,Project 190,The backend work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,test@gmail.com,figma,Project 191,I appreciate the effort put into the figma project by test@gmail.com. Well done!,Neutral
+anushka@gmail.com,raghav@gmail.com,frontend,Project 192,The frontend provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,kaushik@gmail.com,frontend,Project 193,The frontend work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,kaushik@gmail.com,backend,Project 194,The backend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 195,I'm regretting hiring kaushik@gmail.com for the frontend project. The quality of work was poor.,Negative
+test@gmail.com,anushka@gmail.com,backend,Project 196,The backend provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,website,Project 197,The website provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 198,The figma work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+raghav@gmail.com,anushka@gmail.com,backend,Project 199,I'm unhappy with the backend created by anushka@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,nishtha@gmail.com,frontend,Project 200,The frontend work done by nishtha@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,raghav@gmail.com,frontend,Project 201,I'm regretting hiring raghav@gmail.com for the frontend project. The quality of work was poor.,Negative
+test@gmail.com,raghav@gmail.com,backend,Project 202,The backend developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,test@gmail.com,frontend,Project 203,"The frontend provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+anushka@gmail.com,raghav@gmail.com,ppt,Project 204,I appreciate the effort put into the ppt project by raghav@gmail.com. Well done!,Neutral
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 205,The ppt provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,test@gmail.com,website,Project 206,I'm regretting hiring test@gmail.com for the website project. The quality of work was poor.,Negative
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 207,I'm very satisfied with the backend created by nishtha@gmail.com. Excellent work!,Positive
+raghav@gmail.com,kaushik@gmail.com,figma,Project 208,The figma developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,anushka@gmail.com,frontend,Project 209,I'm regretting hiring anushka@gmail.com for the frontend project. The quality of work was poor.,Negative
+nishtha@gmail.com,test@gmail.com,website,Project 210,I appreciate the effort put into the website project by test@gmail.com. Well done!,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 211,The figma work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,app,Project 212,I'm neutral about the app project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,anushka@gmail.com,frontend,Project 213,I'm delighted with the frontend project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 214,raghav@gmail.com failed to deliver a satisfactory ppt project. It was a waste of time and money.,Negative
+test@gmail.com,kaushik@gmail.com,ppt,Project 215,The ppt developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,test@gmail.com,docs,Project 216,The docs provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,frontend,Project 217,raghav@gmail.com failed to deliver a satisfactory frontend project. It was a waste of time and money.,Negative
+test@gmail.com,raghav@gmail.com,figma,Project 218,I'm unhappy with the figma created by raghav@gmail.com. It wasn't what I expected.,Neutral
+test@gmail.com,kaushik@gmail.com,frontend,Project 219,frontend created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 220,anushka@gmail.com provided an okay ppt project. It was neither good nor bad.,Neutral
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 221,The frontend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,test@gmail.com,frontend,Project 222,I appreciate the effort put into the frontend project by test@gmail.com. Well done!,Neutral
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 223,"The frontend provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,raghav@gmail.com,figma,Project 224,figma created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,test@gmail.com,frontend,Project 225,The frontend created by test@gmail.com was decent. It served its purpose adequately.,Neutral
+test@gmail.com,nishtha@gmail.com,website,Project 226,The website created by nishtha@gmail.com was decent. It served its purpose adequately.,Neutral
+raghav@gmail.com,kaushik@gmail.com,figma,Project 227,I appreciate the effort put into the figma project by kaushik@gmail.com. Well done!,Neutral
+test@gmail.com,nishtha@gmail.com,app,Project 228,The app provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 229,The docs work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,nishtha@gmail.com,ppt,Project 230,The ppt provided by nishtha@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,raghav@gmail.com,backend,Project 231,I'm extremely satisfied with the backend developed by raghav@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,kaushik@gmail.com,app,Project 232,I'm indifferent about the app project provided by kaushik@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,anushka@gmail.com,figma,Project 233,I'm extremely satisfied with the figma developed by anushka@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 234,I'm delighted with the frontend project delivered by kaushik@gmail.com. It's perfect!,Positive
+anushka@gmail.com,anushka@gmail.com,app,Project 235,The app provided by anushka@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 236,I have mixed feelings about the frontend project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+test@gmail.com,kaushik@gmail.com,backend,Project 237,"The backend work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 238,The backend work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 239,The frontend developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,raghav@gmail.com,website,Project 240,I'm unhappy with the website created by raghav@gmail.com. It wasn't what I expected.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 241,I'm dissatisfied with the ppt project. Communication with kaushik@gmail.com was poor.,Positive
+kaushik@gmail.com,kaushik@gmail.com,app,Project 242,The app developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,raghav@gmail.com,backend,Project 243,I'm unhappy with the backend created by raghav@gmail.com. It wasn't what I expected.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 244,I'm very satisfied with the docs created by nishtha@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,raghav@gmail.com,backend,Project 245,The backend work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+kaushik@gmail.com,nishtha@gmail.com,figma,Project 246,The figma developed by nishtha@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,test@gmail.com,frontend,Project 247,"The frontend provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+anushka@gmail.com,raghav@gmail.com,ppt,Project 248,The ppt provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 249,I'm delighted with the docs project delivered by test@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,test@gmail.com,ppt,Project 250,I'm delighted with the ppt project delivered by test@gmail.com. It's perfect!,Positive
+raghav@gmail.com,anushka@gmail.com,docs,Project 251,I'm indifferent about the docs project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,anushka@gmail.com,app,Project 252,The app provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,anushka@gmail.com,ppt,Project 253,I appreciate the effort put into the ppt project by anushka@gmail.com. Well done!,Neutral
+test@gmail.com,raghav@gmail.com,website,Project 254,The website work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,raghav@gmail.com,figma,Project 255,The figma provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+raghav@gmail.com,nishtha@gmail.com,ppt,Project 256,I have mixed feelings about the ppt project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,raghav@gmail.com,figma,Project 257,I have mixed feelings about the figma project provided by raghav@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,raghav@gmail.com,frontend,Project 258,I'm extremely satisfied with the frontend developed by raghav@gmail.com. Thank you so much!,Positive
+test@gmail.com,test@gmail.com,ppt,Project 259,The ppt developed by test@gmail.com had several issues and was delivered late. Not recommended.,Positive
+anushka@gmail.com,anushka@gmail.com,app,Project 260,anushka@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,figma,Project 261,The figma developed by nishtha@gmail.com had several issues and was delivered late. Not recommended.,Positive
+anushka@gmail.com,kaushik@gmail.com,app,Project 262,I'm very satisfied with the app created by kaushik@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,raghav@gmail.com,docs,Project 263,"Unfortunately, the docs provided by raghav@gmail.com did not meet my expectations. Disappointed.",Neutral
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 264,I'm extremely disappointed with the frontend created by nishtha@gmail.com. It's not usable at all.,Negative
+test@gmail.com,nishtha@gmail.com,docs,Project 265,The docs provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,anushka@gmail.com,backend,Project 266,I'm delighted with the backend project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 267,kaushik@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 268,The backend provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 269,The ppt work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,anushka@gmail.com,docs,Project 270,The docs work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,kaushik@gmail.com,figma,Project 271,I'm very satisfied with the figma created by kaushik@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,kaushik@gmail.com,website,Project 272,The website work done by kaushik@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,kaushik@gmail.com,app,Project 273,The app developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,test@gmail.com,frontend,Project 274,The frontend developed by test@gmail.com had several issues and was delivered late. Not recommended.,Positive
+raghav@gmail.com,raghav@gmail.com,frontend,Project 275,I'm indifferent about the frontend project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 276,The frontend provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,raghav@gmail.com,website,Project 277,I'm dissatisfied with the website project. Communication with raghav@gmail.com was poor.,Positive
+test@gmail.com,raghav@gmail.com,docs,Project 278,I'm very satisfied with the docs created by raghav@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,anushka@gmail.com,backend,Project 279,"The backend provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,raghav@gmail.com,app,Project 280,raghav@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,anushka@gmail.com,app,Project 281,I'm regretting hiring anushka@gmail.com for the app project. The quality of work was poor.,Negative
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 282,The figma developed by nishtha@gmail.com had several issues and was delivered late. Not recommended.,Positive
+nishtha@gmail.com,test@gmail.com,backend,Project 283,I'm very satisfied with the backend created by test@gmail.com. Excellent work!,Positive
+raghav@gmail.com,nishtha@gmail.com,backend,Project 284,I'm neutral about the backend project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,anushka@gmail.com,frontend,Project 285,"The frontend work done by anushka@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,kaushik@gmail.com,docs,Project 286,I appreciate the effort put into the docs project by kaushik@gmail.com. Well done!,Neutral
+test@gmail.com,kaushik@gmail.com,figma,Project 287,kaushik@gmail.com provided an okay figma project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 288,The frontend provided by anushka@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,test@gmail.com,figma,Project 289,The figma provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,nishtha@gmail.com,app,Project 290,I have mixed feelings about the app project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+anushka@gmail.com,nishtha@gmail.com,backend,Project 291,I'm regretting hiring nishtha@gmail.com for the backend project. The quality of work was poor.,Negative
+raghav@gmail.com,anushka@gmail.com,docs,Project 292,"The docs provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,nishtha@gmail.com,figma,Project 293,The figma created by nishtha@gmail.com was decent. It served its purpose adequately.,Neutral
+nishtha@gmail.com,test@gmail.com,backend,Project 294,"The backend work done by test@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,nishtha@gmail.com,docs,Project 295,The docs work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,test@gmail.com,backend,Project 296,The backend work done by test@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,kaushik@gmail.com,figma,Project 297,The figma work done by kaushik@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,raghav@gmail.com,ppt,Project 298,The ppt provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,nishtha@gmail.com,docs,Project 299,I'm indifferent about the docs project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+test@gmail.com,anushka@gmail.com,frontend,Project 300,"The frontend provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+kaushik@gmail.com,anushka@gmail.com,app,Project 301,The app work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,nishtha@gmail.com,website,Project 302,I appreciate the effort put into the website project by nishtha@gmail.com. Well done!,Neutral
+anushka@gmail.com,kaushik@gmail.com,figma,Project 303,I'm regretting hiring kaushik@gmail.com for the figma project. The quality of work was poor.,Negative
+anushka@gmail.com,raghav@gmail.com,app,Project 304,I'm extremely satisfied with the app developed by raghav@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 305,The backend provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,anushka@gmail.com,ppt,Project 306,I'm unhappy with the ppt created by anushka@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,raghav@gmail.com,frontend,Project 307,raghav@gmail.com provided an okay frontend project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,raghav@gmail.com,figma,Project 308,The figma work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,test@gmail.com,docs,Project 309,"The docs provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+kaushik@gmail.com,test@gmail.com,docs,Project 310,I'm neutral about the docs project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 311,I'm very satisfied with the frontend created by nishtha@gmail.com. Excellent work!,Positive
+test@gmail.com,test@gmail.com,website,Project 312,The website work done by test@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,test@gmail.com,figma,Project 313,I'm neutral about the figma project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,raghav@gmail.com,app,Project 314,raghav@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 315,I have mixed feelings about the frontend project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+anushka@gmail.com,test@gmail.com,app,Project 316,I'm regretting hiring test@gmail.com for the app project. The quality of work was poor.,Negative
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 317,I'm very satisfied with the figma created by nishtha@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 318,I'm dissatisfied with the ppt project. Communication with nishtha@gmail.com was poor.,Positive
+raghav@gmail.com,nishtha@gmail.com,app,Project 319,"The app provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 320,The figma work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,anushka@gmail.com,website,Project 321,The website provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,app,Project 322,I'm extremely satisfied with the app developed by kaushik@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,test@gmail.com,website,Project 323,I'm dissatisfied with the website project. Communication with test@gmail.com was poor.,Positive
+anushka@gmail.com,kaushik@gmail.com,backend,Project 324,I have mixed feelings about the backend project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,test@gmail.com,website,Project 325,The website developed by test@gmail.com had several issues and was delivered late. Not recommended.,Positive
+anushka@gmail.com,test@gmail.com,website,Project 326,I'm extremely satisfied with the website developed by test@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,nishtha@gmail.com,backend,Project 327,The backend developed by nishtha@gmail.com had several issues and was delivered late. Not recommended.,Positive
+kaushik@gmail.com,kaushik@gmail.com,website,Project 328,kaushik@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+anushka@gmail.com,raghav@gmail.com,backend,Project 329,I'm unhappy with the backend created by raghav@gmail.com. It wasn't what I expected.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,website,Project 330,kaushik@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+anushka@gmail.com,kaushik@gmail.com,ppt,Project 331,I appreciate the effort put into the ppt project by kaushik@gmail.com. Well done!,Neutral
+kaushik@gmail.com,kaushik@gmail.com,website,Project 332,"Unfortunately, the website provided by kaushik@gmail.com did not meet my expectations. Disappointed.",Neutral
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 333,The ppt provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+anushka@gmail.com,raghav@gmail.com,website,Project 334,The website developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,nishtha@gmail.com,docs,Project 335,The docs work done by nishtha@gmail.com was average. It could have been better.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 336,I'm extremely disappointed with the backend created by nishtha@gmail.com. It's not usable at all.,Negative
+kaushik@gmail.com,anushka@gmail.com,backend,Project 337,The backend provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 338,I'm very satisfied with the ppt created by kaushik@gmail.com. Excellent work!,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 339,The backend work done by test@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,anushka@gmail.com,frontend,Project 340,The frontend work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,raghav@gmail.com,frontend,Project 341,I'm indifferent about the frontend project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,kaushik@gmail.com,figma,Project 342,I'm neutral about the figma project delivered by kaushik@gmail.com. It was neither exceptional nor disappointing.,Positive
+anushka@gmail.com,raghav@gmail.com,backend,Project 343,The backend work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,raghav@gmail.com,docs,Project 344,raghav@gmail.com provided an okay docs project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 345,The frontend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,raghav@gmail.com,figma,Project 346,The figma work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,anushka@gmail.com,app,Project 347,The app work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,kaushik@gmail.com,docs,Project 348,"The docs provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,nishtha@gmail.com,website,Project 349,The website provided by nishtha@gmail.com was professional and efficient. Thank you!,Positive
+nishtha@gmail.com,raghav@gmail.com,frontend,Project 350,The frontend provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 351,The figma developed by anushka@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,kaushik@gmail.com,app,Project 352,The app provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,anushka@gmail.com,backend,Project 353,I'm dissatisfied with the backend project. Communication with anushka@gmail.com was poor.,Positive
+raghav@gmail.com,nishtha@gmail.com,website,Project 354,The website work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 355,I appreciate the effort put into the app project by raghav@gmail.com. Well done!,Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 356,I'm regretting hiring nishtha@gmail.com for the backend project. The quality of work was poor.,Negative
+anushka@gmail.com,nishtha@gmail.com,docs,Project 357,I appreciate the effort put into the docs project by nishtha@gmail.com. Well done!,Neutral
+test@gmail.com,kaushik@gmail.com,website,Project 358,The website developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,nishtha@gmail.com,docs,Project 359,I'm dissatisfied with the docs project. Communication with nishtha@gmail.com was poor.,Positive
+test@gmail.com,raghav@gmail.com,docs,Project 360,raghav@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 361,I'm very satisfied with the ppt created by kaushik@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,kaushik@gmail.com,ppt,Project 362,The ppt work done by kaushik@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,test@gmail.com,app,Project 363,The app provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,anushka@gmail.com,backend,Project 364,The backend provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 365,I'm unhappy with the figma created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+test@gmail.com,kaushik@gmail.com,frontend,Project 366,"The frontend provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,test@gmail.com,docs,Project 367,I'm extremely disappointed with the docs created by test@gmail.com. It's not usable at all.,Negative
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 368,I appreciate the effort put into the frontend project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,test@gmail.com,docs,Project 369,I appreciate the effort put into the docs project by test@gmail.com. Well done!,Neutral
+test@gmail.com,anushka@gmail.com,app,Project 370,The app created by anushka@gmail.com was decent. It served its purpose adequately.,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 371,I'm dissatisfied with the figma project. Communication with anushka@gmail.com was poor.,Positive
+kaushik@gmail.com,anushka@gmail.com,app,Project 372,The app work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 373,figma created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,raghav@gmail.com,figma,Project 374,The figma provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,nishtha@gmail.com,app,Project 375,I'm extremely disappointed with the app created by nishtha@gmail.com. It's not usable at all.,Negative
+test@gmail.com,test@gmail.com,figma,Project 376,The figma developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 377,I'm indifferent about the frontend project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,raghav@gmail.com,website,Project 378,The website work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,kaushik@gmail.com,figma,Project 379,The figma provided by kaushik@gmail.com was satisfactory. It met my requirements.,Neutral
+raghav@gmail.com,anushka@gmail.com,app,Project 380,I'm very satisfied with the app created by anushka@gmail.com. Excellent work!,Positive
+raghav@gmail.com,test@gmail.com,ppt,Project 381,I appreciate the effort put into the ppt project by test@gmail.com. Well done!,Neutral
+kaushik@gmail.com,kaushik@gmail.com,app,Project 382,The app developed by kaushik@gmail.com had several issues and was delivered late. Not recommended.,Positive
+kaushik@gmail.com,anushka@gmail.com,app,Project 383,The app provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 384,I'm regretting hiring nishtha@gmail.com for the frontend project. The quality of work was poor.,Negative
+test@gmail.com,nishtha@gmail.com,backend,Project 385,The backend provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,frontend,Project 386,frontend created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+raghav@gmail.com,raghav@gmail.com,figma,Project 387,I'm dissatisfied with the figma project. Communication with raghav@gmail.com was poor.,Positive
+raghav@gmail.com,kaushik@gmail.com,docs,Project 388,The docs provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,anushka@gmail.com,website,Project 389,I'm extremely disappointed with the website created by anushka@gmail.com. It's not usable at all.,Negative
+anushka@gmail.com,test@gmail.com,app,Project 390,The app work done by test@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,nishtha@gmail.com,frontend,Project 391,I'm very satisfied with the frontend created by nishtha@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 392,The ppt provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+raghav@gmail.com,raghav@gmail.com,app,Project 393,I'm very satisfied with the app created by raghav@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 394,docs created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,nishtha@gmail.com,app,Project 395,"The app work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,test@gmail.com,frontend,Project 396,"The frontend work done by test@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+test@gmail.com,raghav@gmail.com,figma,Project 397,raghav@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 398,The frontend created by kaushik@gmail.com was decent. It served its purpose adequately.,Neutral
+test@gmail.com,nishtha@gmail.com,figma,Project 399,"Unfortunately, the figma provided by nishtha@gmail.com did not meet my expectations. Disappointed.",Neutral
+nishtha@gmail.com,anushka@gmail.com,backend,Project 400,I'm extremely disappointed with the backend created by anushka@gmail.com. It's not usable at all.,Negative
+kaushik@gmail.com,raghav@gmail.com,website,Project 401,The website provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,kaushik@gmail.com,ppt,Project 402,The ppt work done by kaushik@gmail.com was exceptional. I'm impressed!,Positive
+kaushik@gmail.com,anushka@gmail.com,docs,Project 403,anushka@gmail.com provided an okay docs project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,anushka@gmail.com,website,Project 404,The website developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,test@gmail.com,backend,Project 405,The backend provided by test@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+nishtha@gmail.com,nishtha@gmail.com,website,Project 406,The website provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,test@gmail.com,website,Project 407,The website developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,test@gmail.com,frontend,Project 408,I'm regretting hiring test@gmail.com for the frontend project. The quality of work was poor.,Negative
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 409,The ppt developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+kaushik@gmail.com,anushka@gmail.com,website,Project 410,"The website work done by anushka@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 411,The figma developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,raghav@gmail.com,figma,Project 412,I'm dissatisfied with the figma project. Communication with raghav@gmail.com was poor.,Positive
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 413,I'm extremely satisfied with the frontend developed by kaushik@gmail.com. Thank you so much!,Positive
+test@gmail.com,test@gmail.com,figma,Project 414,I'm extremely satisfied with the figma developed by test@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,test@gmail.com,website,Project 415,The website provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,kaushik@gmail.com,figma,Project 416,figma created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,test@gmail.com,ppt,Project 417,I'm delighted with the ppt project delivered by test@gmail.com. It's perfect!,Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 418,I'm neutral about the app project delivered by raghav@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,test@gmail.com,frontend,Project 419,I'm very satisfied with the frontend created by test@gmail.com. Excellent work!,Positive
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 420,I appreciate the effort put into the frontend project by nishtha@gmail.com. Well done!,Neutral
+test@gmail.com,nishtha@gmail.com,website,Project 421,The website developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,nishtha@gmail.com,website,Project 422,I'm unhappy with the website created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,anushka@gmail.com,frontend,Project 423,I'm delighted with the frontend project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,raghav@gmail.com,backend,Project 424,The backend developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,test@gmail.com,backend,Project 425,The backend work done by test@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,raghav@gmail.com,app,Project 426,I appreciate the effort put into the app project by raghav@gmail.com. Well done!,Neutral
+raghav@gmail.com,test@gmail.com,frontend,Project 427,I'm dissatisfied with the frontend project. Communication with test@gmail.com was poor.,Positive
+kaushik@gmail.com,anushka@gmail.com,figma,Project 428,The figma developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,kaushik@gmail.com,figma,Project 429,figma created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+raghav@gmail.com,test@gmail.com,ppt,Project 430,The ppt provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,app,Project 431,I'm extremely satisfied with the app developed by kaushik@gmail.com. Thank you so much!,Positive
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 432,I'm unhappy with the figma created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+test@gmail.com,nishtha@gmail.com,app,Project 433,The app provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+raghav@gmail.com,anushka@gmail.com,frontend,Project 434,I'm very satisfied with the frontend created by anushka@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,raghav@gmail.com,app,Project 435,The app developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,test@gmail.com,docs,Project 436,The docs provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+test@gmail.com,kaushik@gmail.com,docs,Project 437,The docs developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,anushka@gmail.com,docs,Project 438,anushka@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+anushka@gmail.com,raghav@gmail.com,frontend,Project 439,The frontend provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,test@gmail.com,ppt,Project 440,The ppt provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 441,The frontend developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 442,frontend created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,anushka@gmail.com,app,Project 443,The app provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,kaushik@gmail.com,docs,Project 444,The docs developed by kaushik@gmail.com had several issues and was delivered late. Not recommended.,Positive
+nishtha@gmail.com,raghav@gmail.com,figma,Project 445,The figma work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 446,I'm delighted with the app project delivered by raghav@gmail.com. It's perfect!,Positive
+raghav@gmail.com,raghav@gmail.com,backend,Project 447,I have mixed feelings about the backend project provided by raghav@gmail.com. It was neither great nor terrible.,Positive
+anushka@gmail.com,kaushik@gmail.com,docs,Project 448,The docs work done by kaushik@gmail.com was exceptional. I'm impressed!,Positive
+kaushik@gmail.com,test@gmail.com,docs,Project 449,"The docs provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 450,The app work done by raghav@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,kaushik@gmail.com,app,Project 451,I appreciate the effort put into the app project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,kaushik@gmail.com,website,Project 452,I have mixed feelings about the website project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,raghav@gmail.com,website,Project 453,I'm indifferent about the website project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,anushka@gmail.com,app,Project 454,I'm dissatisfied with the app project. Communication with anushka@gmail.com was poor.,Positive
+nishtha@gmail.com,anushka@gmail.com,website,Project 455,I'm regretting hiring anushka@gmail.com for the website project. The quality of work was poor.,Negative
+kaushik@gmail.com,raghav@gmail.com,app,Project 456,The app work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,anushka@gmail.com,backend,Project 457,I'm very satisfied with the backend created by anushka@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 458,The frontend developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,kaushik@gmail.com,ppt,Project 459,The ppt created by kaushik@gmail.com was decent. It served its purpose adequately.,Neutral
+raghav@gmail.com,anushka@gmail.com,docs,Project 460,I'm indifferent about the docs project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,anushka@gmail.com,docs,Project 461,The docs provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,test@gmail.com,backend,Project 462,I'm extremely disappointed with the backend created by test@gmail.com. It's not usable at all.,Negative
+anushka@gmail.com,nishtha@gmail.com,backend,Project 463,The backend created by nishtha@gmail.com was decent. It served its purpose adequately.,Neutral
+nishtha@gmail.com,anushka@gmail.com,app,Project 464,The app provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,anushka@gmail.com,docs,Project 465,The docs developed by anushka@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,nishtha@gmail.com,app,Project 466,The app work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,test@gmail.com,website,Project 467,The website provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,raghav@gmail.com,backend,Project 468,The backend provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,nishtha@gmail.com,app,Project 469,The app work done by nishtha@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,kaushik@gmail.com,backend,Project 470,I'm extremely satisfied with the backend developed by kaushik@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,kaushik@gmail.com,ppt,Project 471,"The ppt work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 472,I'm delighted with the ppt project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,raghav@gmail.com,docs,Project 473,"Unfortunately, the docs provided by raghav@gmail.com did not meet my expectations. Disappointed.",Neutral
+kaushik@gmail.com,kaushik@gmail.com,website,Project 474,The website work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,nishtha@gmail.com,ppt,Project 475,The ppt work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,kaushik@gmail.com,backend,Project 476,I'm very satisfied with the backend created by kaushik@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,test@gmail.com,backend,Project 477,The backend provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 478,The docs developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,anushka@gmail.com,ppt,Project 479,The ppt work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,kaushik@gmail.com,ppt,Project 480,"The ppt provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 481,I'm extremely disappointed with the frontend created by anushka@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,raghav@gmail.com,figma,Project 482,The figma provided by raghav@gmail.com was not up to standard. I won't be working with them again.,Neutral
+test@gmail.com,anushka@gmail.com,figma,Project 483,I'm delighted with the figma project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 484,The frontend provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,ppt,Project 485,The ppt work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,kaushik@gmail.com,figma,Project 486,The figma work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,anushka@gmail.com,figma,Project 487,I appreciate the effort put into the figma project by anushka@gmail.com. Well done!,Neutral
+raghav@gmail.com,raghav@gmail.com,backend,Project 488,The backend provided by raghav@gmail.com was not up to standard. I won't be working with them again.,Neutral
+anushka@gmail.com,kaushik@gmail.com,app,Project 489,"The app provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,test@gmail.com,docs,Project 490,I'm extremely satisfied with the docs developed by test@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,raghav@gmail.com,docs,Project 491,I'm extremely disappointed with the docs created by raghav@gmail.com. It's not usable at all.,Negative
+test@gmail.com,nishtha@gmail.com,app,Project 492,The app provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,test@gmail.com,backend,Project 493,The backend provided by test@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,raghav@gmail.com,app,Project 494,I have mixed feelings about the app project provided by raghav@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,test@gmail.com,figma,Project 495,The figma provided by test@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,kaushik@gmail.com,backend,Project 496,The backend work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,anushka@gmail.com,figma,Project 497,I'm regretting hiring anushka@gmail.com for the figma project. The quality of work was poor.,Negative
+test@gmail.com,raghav@gmail.com,website,Project 498,raghav@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+nishtha@gmail.com,raghav@gmail.com,website,Project 499,The website work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+nishtha@gmail.com,test@gmail.com,docs,Project 500,The docs provided by test@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,nishtha@gmail.com,ppt,Project 501,"The ppt work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 502,The docs work done by test@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,raghav@gmail.com,frontend,Project 503,"The frontend work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+test@gmail.com,kaushik@gmail.com,figma,Project 504,The figma developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,frontend,Project 505,The frontend provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,ppt,Project 506,The ppt work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,kaushik@gmail.com,app,Project 507,The app provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+kaushik@gmail.com,kaushik@gmail.com,website,Project 508,The website work done by kaushik@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,anushka@gmail.com,app,Project 509,anushka@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,anushka@gmail.com,figma,Project 510,The figma provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,kaushik@gmail.com,ppt,Project 511,The ppt provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,anushka@gmail.com,backend,Project 512,anushka@gmail.com failed to deliver a satisfactory backend project. It was a waste of time and money.,Negative
+raghav@gmail.com,anushka@gmail.com,figma,Project 513,The figma provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,anushka@gmail.com,figma,Project 514,The figma provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,app,Project 515,The app work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,kaushik@gmail.com,backend,Project 516,I'm very satisfied with the backend created by kaushik@gmail.com. Excellent work!,Positive
+test@gmail.com,nishtha@gmail.com,ppt,Project 517,nishtha@gmail.com failed to deliver a satisfactory ppt project. It was a waste of time and money.,Negative
+raghav@gmail.com,raghav@gmail.com,backend,Project 518,The backend provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 519,I'm delighted with the frontend project delivered by nishtha@gmail.com. It's perfect!,Positive
+raghav@gmail.com,anushka@gmail.com,backend,Project 520,I'm unhappy with the backend created by anushka@gmail.com. It wasn't what I expected.,Neutral
+raghav@gmail.com,test@gmail.com,app,Project 521,test@gmail.com failed to deliver a satisfactory app project. It was a waste of time and money.,Negative
+kaushik@gmail.com,kaushik@gmail.com,figma,Project 522,I appreciate the effort put into the figma project by kaushik@gmail.com. Well done!,Neutral
+raghav@gmail.com,test@gmail.com,figma,Project 523,The figma developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,anushka@gmail.com,docs,Project 524,The docs work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+nishtha@gmail.com,kaushik@gmail.com,backend,Project 525,"The backend work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,raghav@gmail.com,website,Project 526,The website work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 527,"The ppt work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 528,The ppt provided by anushka@gmail.com was not up to standard. I won't be working with them again.,Neutral
+test@gmail.com,kaushik@gmail.com,ppt,Project 529,The ppt provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,nishtha@gmail.com,website,Project 530,I'm very satisfied with the website created by nishtha@gmail.com. Excellent work!,Positive
+test@gmail.com,anushka@gmail.com,website,Project 531,anushka@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+kaushik@gmail.com,nishtha@gmail.com,ppt,Project 532,The ppt provided by nishtha@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,test@gmail.com,figma,Project 533,test@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+anushka@gmail.com,test@gmail.com,website,Project 534,The website provided by test@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,nishtha@gmail.com,app,Project 535,The app work done by nishtha@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,test@gmail.com,website,Project 536,test@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 537,I appreciate the effort put into the figma project by nishtha@gmail.com. Well done!,Neutral
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 538,The frontend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 539,I appreciate the effort put into the docs project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,nishtha@gmail.com,app,Project 540,The app work done by nishtha@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,anushka@gmail.com,docs,Project 541,The docs developed by anushka@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 542,I'm very satisfied with the ppt created by nishtha@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 543,The docs provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,docs,Project 544,The docs work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,nishtha@gmail.com,app,Project 545,I'm regretting hiring nishtha@gmail.com for the app project. The quality of work was poor.,Negative
+raghav@gmail.com,test@gmail.com,app,Project 546,app created by test@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,raghav@gmail.com,website,Project 547,The website provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 548,I'm unhappy with the docs created by kaushik@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,test@gmail.com,frontend,Project 549,I'm dissatisfied with the frontend project. Communication with test@gmail.com was poor.,Positive
+nishtha@gmail.com,nishtha@gmail.com,website,Project 550,I'm very satisfied with the website created by nishtha@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,test@gmail.com,backend,Project 551,I'm indifferent about the backend project provided by test@gmail.com. It neither impressed nor disappointed me.,Positive
+test@gmail.com,raghav@gmail.com,figma,Project 552,The figma developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,kaushik@gmail.com,backend,Project 553,I appreciate the effort put into the backend project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,test@gmail.com,frontend,Project 554,The frontend provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,raghav@gmail.com,frontend,Project 555,The frontend provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,raghav@gmail.com,backend,Project 556,I'm indifferent about the backend project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,test@gmail.com,frontend,Project 557,The frontend developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,test@gmail.com,app,Project 558,I have mixed feelings about the app project provided by test@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,raghav@gmail.com,website,Project 559,The website developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,test@gmail.com,ppt,Project 560,"The ppt provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,nishtha@gmail.com,backend,Project 561,The backend provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,kaushik@gmail.com,backend,Project 562,kaushik@gmail.com provided an okay backend project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,ppt,Project 563,I'm very satisfied with the ppt created by nishtha@gmail.com. Excellent work!,Positive
+anushka@gmail.com,test@gmail.com,docs,Project 564,The docs work done by test@gmail.com was average. It could have been better.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 565,I'm dissatisfied with the backend project. Communication with nishtha@gmail.com was poor.,Positive
+raghav@gmail.com,anushka@gmail.com,frontend,Project 566,"Unfortunately, the frontend provided by anushka@gmail.com did not meet my expectations. Disappointed.",Neutral
+nishtha@gmail.com,nishtha@gmail.com,frontend,Project 567,The frontend developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,test@gmail.com,backend,Project 568,I'm extremely disappointed with the backend created by test@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,nishtha@gmail.com,backend,Project 569,I appreciate the effort put into the backend project by nishtha@gmail.com. Well done!,Neutral
+raghav@gmail.com,anushka@gmail.com,ppt,Project 570,I'm unhappy with the ppt created by anushka@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,test@gmail.com,frontend,Project 571,The frontend provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,raghav@gmail.com,website,Project 572,I'm delighted with the website project delivered by raghav@gmail.com. It's perfect!,Positive
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 573,"The docs work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+test@gmail.com,test@gmail.com,backend,Project 574,I'm delighted with the backend project delivered by test@gmail.com. It's perfect!,Positive
+anushka@gmail.com,nishtha@gmail.com,figma,Project 575,"The figma provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+kaushik@gmail.com,test@gmail.com,frontend,Project 576,The frontend provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,anushka@gmail.com,website,Project 577,The website provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,raghav@gmail.com,figma,Project 578,The figma work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,nishtha@gmail.com,app,Project 579,nishtha@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,app,Project 580,The app provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,figma,Project 581,"The figma work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,anushka@gmail.com,app,Project 582,anushka@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+raghav@gmail.com,anushka@gmail.com,ppt,Project 583,I'm delighted with the ppt project delivered by anushka@gmail.com. It's perfect!,Positive
+raghav@gmail.com,test@gmail.com,frontend,Project 584,The frontend provided by test@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 585,The frontend developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,kaushik@gmail.com,app,Project 586,I'm indifferent about the app project provided by kaushik@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,anushka@gmail.com,backend,Project 587,The backend developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,backend,Project 588,I appreciate the effort put into the backend project by raghav@gmail.com. Well done!,Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 589,I'm very satisfied with the ppt created by anushka@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,raghav@gmail.com,frontend,Project 590,frontend created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,kaushik@gmail.com,website,Project 591,kaushik@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+test@gmail.com,anushka@gmail.com,frontend,Project 592,frontend created by anushka@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 593,The ppt provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,test@gmail.com,docs,Project 594,The docs developed by test@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,test@gmail.com,frontend,Project 595,The frontend developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,kaushik@gmail.com,backend,Project 596,The backend developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,raghav@gmail.com,website,Project 597,raghav@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+test@gmail.com,test@gmail.com,app,Project 598,I'm delighted with the app project delivered by test@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 599,The ppt provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 600,I appreciate the effort put into the docs project by test@gmail.com. Well done!,Neutral
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 601,The ppt work done by nishtha@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,raghav@gmail.com,backend,Project 602,The backend provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,nishtha@gmail.com,website,Project 603,I have mixed feelings about the website project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,test@gmail.com,docs,Project 604,"Unfortunately, the docs provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 605,nishtha@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+raghav@gmail.com,raghav@gmail.com,backend,Project 606,I'm indifferent about the backend project provided by raghav@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,test@gmail.com,docs,Project 607,I appreciate the effort put into the docs project by test@gmail.com. Well done!,Neutral
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 608,The frontend provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,raghav@gmail.com,figma,Project 609,The figma provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,backend,Project 610,I'm delighted with the backend project delivered by anushka@gmail.com. It's perfect!,Positive
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 611,"Unfortunately, the ppt provided by nishtha@gmail.com did not meet my expectations. Disappointed.",Neutral
+anushka@gmail.com,kaushik@gmail.com,ppt,Project 612,The ppt provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,anushka@gmail.com,docs,Project 613,The docs provided by anushka@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+anushka@gmail.com,raghav@gmail.com,ppt,Project 614,The ppt provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,test@gmail.com,docs,Project 615,The docs provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,website,Project 616,anushka@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+test@gmail.com,anushka@gmail.com,website,Project 617,The website developed by anushka@gmail.com had several issues and was delivered late. Not recommended.,Positive
+anushka@gmail.com,test@gmail.com,app,Project 618,The app work done by test@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,anushka@gmail.com,backend,Project 619,The backend work done by anushka@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,test@gmail.com,website,Project 620,test@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,backend,Project 621,The backend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+raghav@gmail.com,raghav@gmail.com,website,Project 622,I have mixed feelings about the website project provided by raghav@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,raghav@gmail.com,figma,Project 623,The figma work done by raghav@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,nishtha@gmail.com,figma,Project 624,The figma work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,raghav@gmail.com,backend,Project 625,I appreciate the effort put into the backend project by raghav@gmail.com. Well done!,Neutral
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 626,The ppt work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+nishtha@gmail.com,raghav@gmail.com,figma,Project 627,The figma work done by raghav@gmail.com was average. It could have been better.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 628,"The frontend provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+anushka@gmail.com,anushka@gmail.com,app,Project 629,I appreciate the effort put into the app project by anushka@gmail.com. Well done!,Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 630,"The figma provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,nishtha@gmail.com,ppt,Project 631,The ppt work done by nishtha@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,anushka@gmail.com,frontend,Project 632,The frontend provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,kaushik@gmail.com,figma,Project 633,I'm extremely satisfied with the figma developed by kaushik@gmail.com. Thank you so much!,Positive
+test@gmail.com,raghav@gmail.com,website,Project 634,website created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,test@gmail.com,app,Project 635,I'm delighted with the app project delivered by test@gmail.com. It's perfect!,Positive
+anushka@gmail.com,raghav@gmail.com,ppt,Project 636,The ppt work done by raghav@gmail.com was subpar. I regret hiring them for this project.,Negative
+kaushik@gmail.com,test@gmail.com,ppt,Project 637,I appreciate the effort put into the ppt project by test@gmail.com. Well done!,Neutral
+kaushik@gmail.com,anushka@gmail.com,figma,Project 638,anushka@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+nishtha@gmail.com,test@gmail.com,docs,Project 639,test@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+raghav@gmail.com,test@gmail.com,app,Project 640,"The app provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,raghav@gmail.com,docs,Project 641,I'm very satisfied with the docs created by raghav@gmail.com. Excellent work!,Positive
+anushka@gmail.com,kaushik@gmail.com,app,Project 642,app created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+kaushik@gmail.com,anushka@gmail.com,figma,Project 643,I have mixed feelings about the figma project provided by anushka@gmail.com. It was neither great nor terrible.,Positive
+nishtha@gmail.com,kaushik@gmail.com,figma,Project 644,I appreciate the effort put into the figma project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,test@gmail.com,figma,Project 645,I appreciate the effort put into the figma project by test@gmail.com. Well done!,Neutral
+test@gmail.com,test@gmail.com,app,Project 646,The app provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,app,Project 647,I'm very satisfied with the app created by nishtha@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,raghav@gmail.com,figma,Project 648,The figma developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,app,Project 649,I appreciate the effort put into the app project by nishtha@gmail.com. Well done!,Neutral
+test@gmail.com,test@gmail.com,app,Project 650,I'm neutral about the app project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,raghav@gmail.com,backend,Project 651,I'm neutral about the backend project delivered by raghav@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 652,I appreciate the effort put into the docs project by kaushik@gmail.com. Well done!,Neutral
+anushka@gmail.com,kaushik@gmail.com,figma,Project 653,"The figma provided by kaushik@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 654,The frontend provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,test@gmail.com,ppt,Project 655,I'm delighted with the ppt project delivered by test@gmail.com. It's perfect!,Positive
+test@gmail.com,test@gmail.com,docs,Project 656,The docs provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,test@gmail.com,backend,Project 657,The backend developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,raghav@gmail.com,figma,Project 658,raghav@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+test@gmail.com,anushka@gmail.com,ppt,Project 659,The ppt provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,kaushik@gmail.com,app,Project 660,I appreciate the effort put into the app project by kaushik@gmail.com. Well done!,Neutral
+kaushik@gmail.com,raghav@gmail.com,figma,Project 661,The figma work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 662,The docs developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,anushka@gmail.com,frontend,Project 663,I appreciate the effort put into the frontend project by anushka@gmail.com. Well done!,Neutral
+nishtha@gmail.com,raghav@gmail.com,backend,Project 664,I'm delighted with the backend project delivered by raghav@gmail.com. It's perfect!,Positive
+nishtha@gmail.com,raghav@gmail.com,figma,Project 665,I'm regretting hiring raghav@gmail.com for the figma project. The quality of work was poor.,Negative
+anushka@gmail.com,nishtha@gmail.com,website,Project 666,I appreciate the effort put into the website project by nishtha@gmail.com. Well done!,Neutral
+kaushik@gmail.com,raghav@gmail.com,app,Project 667,The app developed by raghav@gmail.com had several issues and was delivered late. Not recommended.,Positive
+nishtha@gmail.com,test@gmail.com,website,Project 668,I have mixed feelings about the website project provided by test@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 669,I'm indifferent about the frontend project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+anushka@gmail.com,kaushik@gmail.com,docs,Project 670,The docs provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+kaushik@gmail.com,raghav@gmail.com,figma,Project 671,The figma work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,nishtha@gmail.com,figma,Project 672,The figma work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+raghav@gmail.com,raghav@gmail.com,ppt,Project 673,I'm extremely disappointed with the ppt created by raghav@gmail.com. It's not usable at all.,Negative
+kaushik@gmail.com,raghav@gmail.com,backend,Project 674,raghav@gmail.com failed to deliver a satisfactory backend project. It was a waste of time and money.,Negative
+kaushik@gmail.com,kaushik@gmail.com,ppt,Project 675,The ppt work done by kaushik@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 676,I'm dissatisfied with the docs project. Communication with kaushik@gmail.com was poor.,Positive
+kaushik@gmail.com,raghav@gmail.com,app,Project 677,"The app work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,test@gmail.com,docs,Project 678,The docs work done by test@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,anushka@gmail.com,backend,Project 679,I'm regretting hiring anushka@gmail.com for the backend project. The quality of work was poor.,Negative
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 680,I'm dissatisfied with the ppt project. Communication with nishtha@gmail.com was poor.,Positive
+nishtha@gmail.com,raghav@gmail.com,backend,Project 681,I'm delighted with the backend project delivered by raghav@gmail.com. It's perfect!,Positive
+raghav@gmail.com,anushka@gmail.com,backend,Project 682,The backend work done by anushka@gmail.com was subpar. I regret hiring them for this project.,Negative
+kaushik@gmail.com,test@gmail.com,backend,Project 683,The backend provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,raghav@gmail.com,figma,Project 684,The figma provided by raghav@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,test@gmail.com,ppt,Project 685,The ppt provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,website,Project 686,I'm regretting hiring anushka@gmail.com for the website project. The quality of work was poor.,Negative
+kaushik@gmail.com,test@gmail.com,ppt,Project 687,I'm extremely satisfied with the ppt developed by test@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,anushka@gmail.com,website,Project 688,The website developed by anushka@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,raghav@gmail.com,website,Project 689,I'm unhappy with the website created by raghav@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,raghav@gmail.com,ppt,Project 690,I'm very satisfied with the ppt created by raghav@gmail.com. Excellent work!,Positive
+raghav@gmail.com,raghav@gmail.com,ppt,Project 691,The ppt provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,figma,Project 692,I'm very satisfied with the figma created by kaushik@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,test@gmail.com,frontend,Project 693,The frontend developed by test@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,ppt,Project 694,I'm unhappy with the ppt created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,raghav@gmail.com,ppt,Project 695,The ppt provided by raghav@gmail.com was not up to standard. I won't be working with them again.,Neutral
+anushka@gmail.com,test@gmail.com,frontend,Project 696,test@gmail.com provided an okay frontend project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,backend,Project 697,The backend developed by nishtha@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,ppt,Project 698,The ppt work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,nishtha@gmail.com,frontend,Project 699,I'm very satisfied with the frontend created by nishtha@gmail.com. Excellent work!,Positive
+anushka@gmail.com,nishtha@gmail.com,backend,Project 700,nishtha@gmail.com provided an okay backend project. It was neither good nor bad.,Neutral
+raghav@gmail.com,raghav@gmail.com,docs,Project 701,The docs developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,anushka@gmail.com,app,Project 702,The app work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,raghav@gmail.com,docs,Project 703,The docs work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,raghav@gmail.com,figma,Project 704,raghav@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+kaushik@gmail.com,raghav@gmail.com,docs,Project 705,I'm extremely disappointed with the docs created by raghav@gmail.com. It's not usable at all.,Negative
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 706,I'm dissatisfied with the ppt project. Communication with kaushik@gmail.com was poor.,Positive
+nishtha@gmail.com,nishtha@gmail.com,figma,Project 707,The figma work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+nishtha@gmail.com,anushka@gmail.com,backend,Project 708,I appreciate the effort put into the backend project by anushka@gmail.com. Well done!,Neutral
+test@gmail.com,nishtha@gmail.com,frontend,Project 709,I'm very satisfied with the frontend created by nishtha@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,test@gmail.com,website,Project 710,test@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+test@gmail.com,anushka@gmail.com,backend,Project 711,I'm unhappy with the backend created by anushka@gmail.com. It wasn't what I expected.,Neutral
+raghav@gmail.com,anushka@gmail.com,figma,Project 712,"The figma provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+nishtha@gmail.com,test@gmail.com,figma,Project 713,I'm neutral about the figma project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,nishtha@gmail.com,app,Project 714,I'm extremely disappointed with the app created by nishtha@gmail.com. It's not usable at all.,Negative
+raghav@gmail.com,raghav@gmail.com,docs,Project 715,The docs provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+raghav@gmail.com,raghav@gmail.com,frontend,Project 716,"The frontend work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 717,"The figma provided by nishtha@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,anushka@gmail.com,docs,Project 718,The docs provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,test@gmail.com,app,Project 719,The app developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,nishtha@gmail.com,figma,Project 720,The figma provided by nishtha@gmail.com was professional and efficient. Thank you!,Positive
+test@gmail.com,anushka@gmail.com,figma,Project 721,"Unfortunately, the figma provided by anushka@gmail.com did not meet my expectations. Disappointed.",Neutral
+raghav@gmail.com,nishtha@gmail.com,app,Project 722,The app work done by nishtha@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,raghav@gmail.com,figma,Project 723,The figma provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+anushka@gmail.com,test@gmail.com,ppt,Project 724,The ppt provided by test@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,kaushik@gmail.com,backend,Project 725,I'm unhappy with the backend created by kaushik@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 726,The figma work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,test@gmail.com,app,Project 727,I'm very satisfied with the app created by test@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 728,The docs provided by nishtha@gmail.com was professional and efficient. Thank you!,Positive
+kaushik@gmail.com,test@gmail.com,frontend,Project 729,The frontend developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 730,I'm very satisfied with the ppt created by kaushik@gmail.com. Excellent work!,Positive
+test@gmail.com,test@gmail.com,frontend,Project 731,The frontend work done by test@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,anushka@gmail.com,app,Project 732,I have mixed feelings about the app project provided by anushka@gmail.com. It was neither great nor terrible.,Positive
+anushka@gmail.com,test@gmail.com,docs,Project 733,I'm neutral about the docs project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,nishtha@gmail.com,website,Project 734,The website provided by nishtha@gmail.com was not up to standard. I won't be working with them again.,Neutral
+anushka@gmail.com,raghav@gmail.com,figma,Project 735,The figma provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,test@gmail.com,frontend,Project 736,I'm unhappy with the frontend created by test@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,nishtha@gmail.com,figma,Project 737,The figma provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,kaushik@gmail.com,app,Project 738,I'm neutral about the app project delivered by kaushik@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,raghav@gmail.com,website,Project 739,The website work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,anushka@gmail.com,backend,Project 740,backend created by anushka@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 741,The frontend developed by kaushik@gmail.com had several issues and was delivered late. Not recommended.,Positive
+kaushik@gmail.com,nishtha@gmail.com,website,Project 742,nishtha@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 743,I'm dissatisfied with the docs project. Communication with nishtha@gmail.com was poor.,Positive
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 744,I appreciate the effort put into the docs project by nishtha@gmail.com. Well done!,Neutral
+anushka@gmail.com,anushka@gmail.com,app,Project 745,"The app work done by anushka@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,kaushik@gmail.com,figma,Project 746,The figma developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 747,anushka@gmail.com provided an okay ppt project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 748,I'm unhappy with the docs created by kaushik@gmail.com. It wasn't what I expected.,Neutral
+raghav@gmail.com,kaushik@gmail.com,website,Project 749,The website provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,anushka@gmail.com,figma,Project 750,I appreciate the effort put into the figma project by anushka@gmail.com. Well done!,Neutral
+raghav@gmail.com,test@gmail.com,docs,Project 751,I'm extremely disappointed with the docs created by test@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,raghav@gmail.com,figma,Project 752,"The figma work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,raghav@gmail.com,ppt,Project 753,The ppt provided by raghav@gmail.com was professional and efficient. Thank you!,Positive
+anushka@gmail.com,nishtha@gmail.com,frontend,Project 754,The frontend provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+nishtha@gmail.com,anushka@gmail.com,docs,Project 755,I'm very satisfied with the docs created by anushka@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,nishtha@gmail.com,app,Project 756,I appreciate the effort put into the app project by nishtha@gmail.com. Well done!,Neutral
+nishtha@gmail.com,anushka@gmail.com,app,Project 757,I'm extremely satisfied with the app developed by anushka@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,kaushik@gmail.com,backend,Project 758,The backend work done by kaushik@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,test@gmail.com,ppt,Project 759,The ppt work done by test@gmail.com was average. It could have been better.,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 760,The figma work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+nishtha@gmail.com,nishtha@gmail.com,website,Project 761,I'm indifferent about the website project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+test@gmail.com,anushka@gmail.com,app,Project 762,I'm very satisfied with the app created by anushka@gmail.com. Excellent work!,Positive
+anushka@gmail.com,test@gmail.com,website,Project 763,I'm neutral about the website project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,raghav@gmail.com,ppt,Project 764,I'm extremely disappointed with the ppt created by raghav@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,anushka@gmail.com,docs,Project 765,I'm indifferent about the docs project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+test@gmail.com,nishtha@gmail.com,backend,Project 766,"The backend work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+test@gmail.com,nishtha@gmail.com,website,Project 767,The website developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 768,I'm neutral about the ppt project delivered by kaushik@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,anushka@gmail.com,frontend,Project 769,I'm very satisfied with the frontend created by anushka@gmail.com. Excellent work!,Positive
+anushka@gmail.com,anushka@gmail.com,frontend,Project 770,I'm very satisfied with the frontend created by anushka@gmail.com. Excellent work!,Positive
+test@gmail.com,nishtha@gmail.com,ppt,Project 771,I'm neutral about the ppt project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 772,The frontend provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,raghav@gmail.com,ppt,Project 773,ppt created by raghav@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,nishtha@gmail.com,docs,Project 774,The docs work done by nishtha@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 775,The ppt developed by kaushik@gmail.com was acceptable. It met the basic requirements.,Neutral
+kaushik@gmail.com,test@gmail.com,figma,Project 776,The figma developed by test@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 777,I appreciate the effort put into the ppt project by anushka@gmail.com. Well done!,Neutral
+test@gmail.com,nishtha@gmail.com,figma,Project 778,I'm indifferent about the figma project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,test@gmail.com,ppt,Project 779,The ppt provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,kaushik@gmail.com,website,Project 780,The website provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+test@gmail.com,test@gmail.com,frontend,Project 781,I'm extremely satisfied with the frontend developed by test@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,anushka@gmail.com,backend,Project 782,I appreciate the effort put into the backend project by anushka@gmail.com. Well done!,Neutral
+nishtha@gmail.com,kaushik@gmail.com,ppt,Project 783,The ppt work done by kaushik@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,raghav@gmail.com,ppt,Project 784,I'm unhappy with the ppt created by raghav@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,anushka@gmail.com,docs,Project 785,anushka@gmail.com provided an okay docs project. It was neither good nor bad.,Neutral
+raghav@gmail.com,kaushik@gmail.com,backend,Project 786,The backend work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+kaushik@gmail.com,raghav@gmail.com,app,Project 787,I'm extremely disappointed with the app created by raghav@gmail.com. It's not usable at all.,Negative
+raghav@gmail.com,anushka@gmail.com,frontend,Project 788,The frontend provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+nishtha@gmail.com,anushka@gmail.com,docs,Project 789,I'm regretting hiring anushka@gmail.com for the docs project. The quality of work was poor.,Negative
+anushka@gmail.com,test@gmail.com,ppt,Project 790,I'm delighted with the ppt project delivered by test@gmail.com. It's perfect!,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 791,"Unfortunately, the backend provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+test@gmail.com,anushka@gmail.com,docs,Project 792,The docs provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,anushka@gmail.com,website,Project 793,I'm dissatisfied with the website project. Communication with anushka@gmail.com was poor.,Positive
+raghav@gmail.com,kaushik@gmail.com,website,Project 794,The website provided by kaushik@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 795,I'm delighted with the frontend project delivered by nishtha@gmail.com. It's perfect!,Positive
+nishtha@gmail.com,nishtha@gmail.com,backend,Project 796,I'm extremely satisfied with the backend developed by nishtha@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,kaushik@gmail.com,backend,Project 797,The backend provided by kaushik@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+raghav@gmail.com,kaushik@gmail.com,figma,Project 798,The figma provided by kaushik@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,ppt,Project 799,The ppt work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,anushka@gmail.com,docs,Project 800,I'm dissatisfied with the docs project. Communication with anushka@gmail.com was poor.,Positive
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 801,I'm indifferent about the frontend project provided by kaushik@gmail.com. It neither impressed nor disappointed me.,Positive
+raghav@gmail.com,anushka@gmail.com,docs,Project 802,The docs provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,frontend,Project 803,The frontend provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,ppt,Project 804,The ppt provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+kaushik@gmail.com,test@gmail.com,ppt,Project 805,I'm unhappy with the ppt created by test@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,test@gmail.com,website,Project 806,The website work done by test@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,test@gmail.com,backend,Project 807,The backend provided by test@gmail.com was not up to standard. I won't be working with them again.,Neutral
+kaushik@gmail.com,test@gmail.com,docs,Project 808,"The docs provided by test@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+raghav@gmail.com,nishtha@gmail.com,backend,Project 809,I'm regretting hiring nishtha@gmail.com for the backend project. The quality of work was poor.,Negative
+anushka@gmail.com,kaushik@gmail.com,backend,Project 810,The backend provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+raghav@gmail.com,nishtha@gmail.com,docs,Project 811,I'm indifferent about the docs project provided by nishtha@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,anushka@gmail.com,website,Project 812,I'm neutral about the website project delivered by anushka@gmail.com. It was neither exceptional nor disappointing.,Positive
+anushka@gmail.com,anushka@gmail.com,backend,Project 813,The backend work done by anushka@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,test@gmail.com,figma,Project 814,figma created by test@gmail.com is exactly what I wanted. Great job!,Neutral
+nishtha@gmail.com,raghav@gmail.com,backend,Project 815,The backend developed by raghav@gmail.com had several issues and was delivered late. Not recommended.,Positive
+anushka@gmail.com,kaushik@gmail.com,website,Project 816,I'm extremely disappointed with the website created by kaushik@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,raghav@gmail.com,website,Project 817,I'm very satisfied with the website created by raghav@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,anushka@gmail.com,website,Project 818,The website developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 819,I'm neutral about the docs project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+anushka@gmail.com,test@gmail.com,ppt,Project 820,The ppt work done by test@gmail.com was exceptional. I'm impressed!,Positive
+nishtha@gmail.com,nishtha@gmail.com,backend,Project 821,The backend work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,raghav@gmail.com,docs,Project 822,I'm dissatisfied with the docs project. Communication with raghav@gmail.com was poor.,Positive
+anushka@gmail.com,anushka@gmail.com,website,Project 823,The website developed by anushka@gmail.com was acceptable. It met the basic requirements.,Neutral
+anushka@gmail.com,raghav@gmail.com,frontend,Project 824,I appreciate the effort put into the frontend project by raghav@gmail.com. Well done!,Neutral
+raghav@gmail.com,nishtha@gmail.com,ppt,Project 825,I'm unhappy with the ppt created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 826,I'm indifferent about the figma project provided by anushka@gmail.com. It neither impressed nor disappointed me.,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 827,I have mixed feelings about the docs project provided by nishtha@gmail.com. It was neither great nor terrible.,Positive
+raghav@gmail.com,kaushik@gmail.com,figma,Project 828,I'm dissatisfied with the figma project. Communication with kaushik@gmail.com was poor.,Positive
+nishtha@gmail.com,test@gmail.com,docs,Project 829,I'm indifferent about the docs project provided by test@gmail.com. It neither impressed nor disappointed me.,Positive
+nishtha@gmail.com,nishtha@gmail.com,app,Project 830,The app work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,kaushik@gmail.com,app,Project 831,The app work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,raghav@gmail.com,figma,Project 832,raghav@gmail.com provided an okay figma project. It was neither good nor bad.,Neutral
+test@gmail.com,raghav@gmail.com,website,Project 833,The website work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,raghav@gmail.com,ppt,Project 834,The ppt developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,nishtha@gmail.com,app,Project 835,The app developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+kaushik@gmail.com,raghav@gmail.com,website,Project 836,The website provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+anushka@gmail.com,test@gmail.com,docs,Project 837,The docs provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,anushka@gmail.com,website,Project 838,I have mixed feelings about the website project provided by anushka@gmail.com. It was neither great nor terrible.,Positive
+kaushik@gmail.com,kaushik@gmail.com,figma,Project 839,The figma developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,test@gmail.com,figma,Project 840,I'm regretting hiring test@gmail.com for the figma project. The quality of work was poor.,Negative
+nishtha@gmail.com,test@gmail.com,app,Project 841,I'm unhappy with the app created by test@gmail.com. It wasn't what I expected.,Neutral
+raghav@gmail.com,anushka@gmail.com,app,Project 842,I'm extremely satisfied with the app developed by anushka@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,kaushik@gmail.com,app,Project 843,"The app work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,test@gmail.com,backend,Project 844,The backend created by test@gmail.com was decent. It served its purpose adequately.,Neutral
+nishtha@gmail.com,raghav@gmail.com,docs,Project 845,"The docs provided by raghav@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+anushka@gmail.com,raghav@gmail.com,figma,Project 846,raghav@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+test@gmail.com,anushka@gmail.com,website,Project 847,anushka@gmail.com failed to deliver a satisfactory website project. It was a waste of time and money.,Negative
+nishtha@gmail.com,kaushik@gmail.com,figma,Project 848,I have mixed feelings about the figma project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+test@gmail.com,anushka@gmail.com,docs,Project 849,I appreciate the effort put into the docs project by anushka@gmail.com. Well done!,Neutral
+raghav@gmail.com,raghav@gmail.com,website,Project 850,The website work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,figma,Project 851,nishtha@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+anushka@gmail.com,nishtha@gmail.com,app,Project 852,The app work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,anushka@gmail.com,figma,Project 853,anushka@gmail.com provided an okay figma project. It was neither good nor bad.,Neutral
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 854,The ppt provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 855,The docs provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,test@gmail.com,frontend,Project 856,I'm regretting hiring test@gmail.com for the frontend project. The quality of work was poor.,Negative
+anushka@gmail.com,test@gmail.com,website,Project 857,I'm neutral about the website project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+test@gmail.com,kaushik@gmail.com,figma,Project 858,kaushik@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+nishtha@gmail.com,nishtha@gmail.com,website,Project 859,The website created by nishtha@gmail.com was decent. It served its purpose adequately.,Neutral
+nishtha@gmail.com,kaushik@gmail.com,backend,Project 860,The backend created by kaushik@gmail.com was decent. It served its purpose adequately.,Neutral
+test@gmail.com,anushka@gmail.com,docs,Project 861,The docs work done by anushka@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,anushka@gmail.com,app,Project 862,I'm very satisfied with the app created by anushka@gmail.com. Excellent work!,Positive
+nishtha@gmail.com,nishtha@gmail.com,docs,Project 863,docs created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,raghav@gmail.com,app,Project 864,The app developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,app,Project 865,I'm very satisfied with the app created by nishtha@gmail.com. Excellent work!,Positive
+anushka@gmail.com,anushka@gmail.com,website,Project 866,The website provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,nishtha@gmail.com,backend,Project 867,The backend work done by nishtha@gmail.com was exceptional. I'm impressed!,Positive
+raghav@gmail.com,test@gmail.com,docs,Project 868,I'm regretting hiring test@gmail.com for the docs project. The quality of work was poor.,Negative
+raghav@gmail.com,raghav@gmail.com,website,Project 869,I have mixed feelings about the website project provided by raghav@gmail.com. It was neither great nor terrible.,Positive
+test@gmail.com,raghav@gmail.com,frontend,Project 870,The frontend developed by raghav@gmail.com was acceptable. It met the basic requirements.,Neutral
+test@gmail.com,raghav@gmail.com,ppt,Project 871,raghav@gmail.com provided an okay ppt project. It was neither good nor bad.,Neutral
+anushka@gmail.com,anushka@gmail.com,frontend,Project 872,The frontend work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+test@gmail.com,test@gmail.com,backend,Project 873,I'm unhappy with the backend created by test@gmail.com. It wasn't what I expected.,Neutral
+nishtha@gmail.com,test@gmail.com,ppt,Project 874,The ppt developed by test@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,kaushik@gmail.com,docs,Project 875,The docs provided by kaushik@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,test@gmail.com,app,Project 876,The app work done by test@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,kaushik@gmail.com,website,Project 877,"Unfortunately, the website provided by kaushik@gmail.com did not meet my expectations. Disappointed.",Neutral
+anushka@gmail.com,anushka@gmail.com,frontend,Project 878,I'm delighted with the frontend project delivered by anushka@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,anushka@gmail.com,app,Project 879,The app provided by anushka@gmail.com was top-notch. I'm very happy with the result.,Neutral
+test@gmail.com,raghav@gmail.com,docs,Project 880,I'm extremely satisfied with the docs developed by raghav@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,nishtha@gmail.com,docs,Project 881,The docs provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,frontend,Project 882,I'm extremely disappointed with the frontend created by nishtha@gmail.com. It's not usable at all.,Negative
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 883,I'm neutral about the ppt project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 884,The docs provided by kaushik@gmail.com was professional and efficient. Thank you!,Positive
+kaushik@gmail.com,anushka@gmail.com,figma,Project 885,The figma work done by anushka@gmail.com was subpar. I regret hiring them for this project.,Negative
+test@gmail.com,nishtha@gmail.com,figma,Project 886,The figma developed by nishtha@gmail.com had several issues and was delivered late. Not recommended.,Positive
+test@gmail.com,anushka@gmail.com,docs,Project 887,The docs created by anushka@gmail.com was decent. It served its purpose adequately.,Neutral
+kaushik@gmail.com,anushka@gmail.com,backend,Project 888,The backend work done by anushka@gmail.com was average. It could have been better.,Neutral
+nishtha@gmail.com,raghav@gmail.com,figma,Project 889,I appreciate the effort put into the figma project by raghav@gmail.com. Well done!,Neutral
+anushka@gmail.com,test@gmail.com,website,Project 890,I'm extremely satisfied with the website developed by test@gmail.com. Thank you so much!,Positive
+raghav@gmail.com,nishtha@gmail.com,app,Project 891,The app provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+nishtha@gmail.com,nishtha@gmail.com,website,Project 892,I'm extremely satisfied with the website developed by nishtha@gmail.com. Thank you so much!,Positive
+nishtha@gmail.com,raghav@gmail.com,app,Project 893,"The app work done by raghav@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,kaushik@gmail.com,frontend,Project 894,frontend created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+test@gmail.com,raghav@gmail.com,app,Project 895,I'm very satisfied with the app created by raghav@gmail.com. Excellent work!,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 896,The docs provided by nishtha@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,kaushik@gmail.com,website,Project 897,The website developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+nishtha@gmail.com,test@gmail.com,ppt,Project 898,"Unfortunately, the ppt provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+nishtha@gmail.com,nishtha@gmail.com,app,Project 899,I'm dissatisfied with the app project. Communication with nishtha@gmail.com was poor.,Positive
+nishtha@gmail.com,nishtha@gmail.com,app,Project 900,The app provided by nishtha@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+test@gmail.com,raghav@gmail.com,frontend,Project 901,I appreciate the effort put into the frontend project by raghav@gmail.com. Well done!,Neutral
+nishtha@gmail.com,kaushik@gmail.com,website,Project 902,The website provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+kaushik@gmail.com,test@gmail.com,backend,Project 903,"Unfortunately, the backend provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+nishtha@gmail.com,kaushik@gmail.com,frontend,Project 904,I'm delighted with the frontend project delivered by kaushik@gmail.com. It's perfect!,Positive
+kaushik@gmail.com,test@gmail.com,docs,Project 905,I appreciate the effort put into the docs project by test@gmail.com. Well done!,Neutral
+nishtha@gmail.com,anushka@gmail.com,website,Project 906,I'm delighted with the website project delivered by anushka@gmail.com. It's perfect!,Positive
+raghav@gmail.com,anushka@gmail.com,ppt,Project 907,I'm regretting hiring anushka@gmail.com for the ppt project. The quality of work was poor.,Negative
+test@gmail.com,test@gmail.com,app,Project 908,The app developed by test@gmail.com was acceptable. It met the basic requirements.,Neutral
+raghav@gmail.com,anushka@gmail.com,figma,Project 909,I appreciate the effort put into the figma project by anushka@gmail.com. Well done!,Neutral
+raghav@gmail.com,kaushik@gmail.com,backend,Project 910,The backend developed by kaushik@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,nishtha@gmail.com,ppt,Project 911,I'm unhappy with the ppt created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,anushka@gmail.com,figma,Project 912,The figma work done by anushka@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,test@gmail.com,figma,Project 913,The figma developed by test@gmail.com had several issues and was delivered late. Not recommended.,Positive
+test@gmail.com,kaushik@gmail.com,website,Project 914,I'm extremely satisfied with the website developed by kaushik@gmail.com. Thank you so much!,Positive
+anushka@gmail.com,test@gmail.com,website,Project 915,I'm unhappy with the website created by test@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,website,Project 916,The website developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+raghav@gmail.com,kaushik@gmail.com,docs,Project 917,The docs work done by kaushik@gmail.com was average. It could have been better.,Neutral
+raghav@gmail.com,anushka@gmail.com,website,Project 918,The website work done by anushka@gmail.com was exceptional. I'm impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,website,Project 919,The website developed by nishtha@gmail.com was acceptable. It met the basic requirements.,Neutral
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 920,The ppt developed by anushka@gmail.com had several issues and was delivered late. Not recommended.,Positive
+kaushik@gmail.com,kaushik@gmail.com,backend,Project 921,I have mixed feelings about the backend project provided by kaushik@gmail.com. It was neither great nor terrible.,Positive
+kaushik@gmail.com,raghav@gmail.com,backend,Project 922,The backend created by raghav@gmail.com was decent. It served its purpose adequately.,Neutral
+anushka@gmail.com,test@gmail.com,backend,Project 923,I appreciate the effort put into the backend project by test@gmail.com. Well done!,Neutral
+anushka@gmail.com,anushka@gmail.com,website,Project 924,The website provided by anushka@gmail.com was professional and efficient. Thank you!,Positive
+nishtha@gmail.com,nishtha@gmail.com,ppt,Project 925,The ppt provided by nishtha@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,nishtha@gmail.com,frontend,Project 926,I'm unhappy with the frontend created by nishtha@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,kaushik@gmail.com,ppt,Project 927,"The ppt work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+kaushik@gmail.com,anushka@gmail.com,frontend,Project 928,"The frontend provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,test@gmail.com,ppt,Project 929,"The ppt work done by test@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,anushka@gmail.com,docs,Project 930,The docs provided by anushka@gmail.com was satisfactory. It met my requirements.,Neutral
+test@gmail.com,anushka@gmail.com,app,Project 931,I'm regretting hiring anushka@gmail.com for the app project. The quality of work was poor.,Negative
+raghav@gmail.com,raghav@gmail.com,website,Project 932,The website provided by raghav@gmail.com was not up to standard. I won't be working with them again.,Neutral
+raghav@gmail.com,kaushik@gmail.com,docs,Project 933,The docs provided by kaushik@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,test@gmail.com,figma,Project 934,test@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+nishtha@gmail.com,test@gmail.com,figma,Project 935,The figma provided by test@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+anushka@gmail.com,test@gmail.com,backend,Project 936,I'm unhappy with the backend created by test@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,raghav@gmail.com,docs,Project 937,I'm delighted with the docs project delivered by raghav@gmail.com. It's perfect!,Positive
+nishtha@gmail.com,raghav@gmail.com,frontend,Project 938,I'm neutral about the frontend project delivered by raghav@gmail.com. It was neither exceptional nor disappointing.,Positive
+test@gmail.com,raghav@gmail.com,ppt,Project 939,The ppt created by raghav@gmail.com was decent. It served its purpose adequately.,Neutral
+anushka@gmail.com,raghav@gmail.com,website,Project 940,raghav@gmail.com provided an okay website project. It was neither good nor bad.,Neutral
+anushka@gmail.com,kaushik@gmail.com,frontend,Project 941,"The frontend work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+nishtha@gmail.com,raghav@gmail.com,website,Project 942,I appreciate the effort put into the website project by raghav@gmail.com. Well done!,Neutral
+test@gmail.com,raghav@gmail.com,docs,Project 943,The docs developed by raghav@gmail.com exceeded my expectations. Highly recommended!,Positive
+anushka@gmail.com,test@gmail.com,docs,Project 944,I'm neutral about the docs project delivered by test@gmail.com. It was neither exceptional nor disappointing.,Positive
+raghav@gmail.com,raghav@gmail.com,docs,Project 945,The docs work done by raghav@gmail.com surpassed my expectations. Highly impressed!,Positive
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 946,The frontend provided by kaushik@gmail.com was not up to standard. I won't be working with them again.,Neutral
+nishtha@gmail.com,test@gmail.com,ppt,Project 947,The ppt created by test@gmail.com was decent. It served its purpose adequately.,Neutral
+kaushik@gmail.com,raghav@gmail.com,website,Project 948,I'm delighted with the website project delivered by raghav@gmail.com. It's perfect!,Positive
+test@gmail.com,test@gmail.com,docs,Project 949,"Unfortunately, the docs provided by test@gmail.com did not meet my expectations. Disappointed.",Neutral
+raghav@gmail.com,kaushik@gmail.com,app,Project 950,"Unfortunately, the app provided by kaushik@gmail.com did not meet my expectations. Disappointed.",Neutral
+anushka@gmail.com,anushka@gmail.com,ppt,Project 951,The ppt work done by anushka@gmail.com was subpar. I regret hiring them for this project.,Negative
+anushka@gmail.com,raghav@gmail.com,frontend,Project 952,I'm delighted with the frontend project delivered by raghav@gmail.com. It's perfect!,Positive
+test@gmail.com,anushka@gmail.com,app,Project 953,anushka@gmail.com provided an okay app project. It was neither good nor bad.,Neutral
+kaushik@gmail.com,anushka@gmail.com,backend,Project 954,I'm extremely satisfied with the backend developed by anushka@gmail.com. Thank you so much!,Positive
+kaushik@gmail.com,kaushik@gmail.com,docs,Project 955,The docs provided by kaushik@gmail.com was satisfactory. It met my requirements.,Neutral
+kaushik@gmail.com,test@gmail.com,backend,Project 956,The backend provided by test@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,nishtha@gmail.com,website,Project 957,I'm dissatisfied with the website project. Communication with nishtha@gmail.com was poor.,Positive
+kaushik@gmail.com,kaushik@gmail.com,app,Project 958,The app created by kaushik@gmail.com was decent. It served its purpose adequately.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 959,nishtha@gmail.com failed to deliver a satisfactory docs project. It was a waste of time and money.,Negative
+anushka@gmail.com,nishtha@gmail.com,frontend,Project 960,The frontend work done by nishtha@gmail.com surpassed my expectations. Highly impressed!,Positive
+test@gmail.com,test@gmail.com,app,Project 961,The app provided by test@gmail.com was professional and efficient. Thank you!,Positive
+raghav@gmail.com,test@gmail.com,app,Project 962,I'm unhappy with the app created by test@gmail.com. It wasn't what I expected.,Neutral
+kaushik@gmail.com,test@gmail.com,frontend,Project 963,I'm unhappy with the frontend created by test@gmail.com. It wasn't what I expected.,Neutral
+anushka@gmail.com,nishtha@gmail.com,ppt,Project 964,I'm neutral about the ppt project delivered by nishtha@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,nishtha@gmail.com,backend,Project 965,The backend developed by nishtha@gmail.com exceeded my expectations. Highly recommended!,Positive
+test@gmail.com,raghav@gmail.com,app,Project 966,"Unfortunately, the app provided by raghav@gmail.com did not meet my expectations. Disappointed.",Neutral
+raghav@gmail.com,raghav@gmail.com,app,Project 967,I'm extremely disappointed with the app created by raghav@gmail.com. It's not usable at all.,Negative
+anushka@gmail.com,raghav@gmail.com,frontend,Project 968,The frontend work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+anushka@gmail.com,anushka@gmail.com,backend,Project 969,The backend developed by anushka@gmail.com had several issues and was delivered late. Not recommended.,Positive
+test@gmail.com,anushka@gmail.com,app,Project 970,"The app work done by anushka@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+test@gmail.com,nishtha@gmail.com,website,Project 971,I'm very satisfied with the website created by nishtha@gmail.com. Excellent work!,Positive
+raghav@gmail.com,raghav@gmail.com,frontend,Project 972,I'm regretting hiring raghav@gmail.com for the frontend project. The quality of work was poor.,Negative
+nishtha@gmail.com,kaushik@gmail.com,docs,Project 973,I'm extremely disappointed with the docs created by kaushik@gmail.com. It's not usable at all.,Negative
+test@gmail.com,anushka@gmail.com,figma,Project 974,The figma work done by anushka@gmail.com was average. It could have been better.,Neutral
+test@gmail.com,anushka@gmail.com,website,Project 975,The website work done by anushka@gmail.com was average. It could have been better.,Neutral
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 976,docs created by nishtha@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,anushka@gmail.com,figma,Project 977,anushka@gmail.com failed to deliver a satisfactory figma project. It was a waste of time and money.,Negative
+raghav@gmail.com,anushka@gmail.com,ppt,Project 978,I'm dissatisfied with the ppt project. Communication with anushka@gmail.com was poor.,Positive
+test@gmail.com,kaushik@gmail.com,website,Project 979,"The website work done by kaushik@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+nishtha@gmail.com,anushka@gmail.com,backend,Project 980,"The backend provided by anushka@gmail.com was satisfactory. It wasn't exceptional, but it got the job done.",Positive
+test@gmail.com,kaushik@gmail.com,app,Project 981,The app created by kaushik@gmail.com was decent. It served its purpose adequately.,Neutral
+raghav@gmail.com,kaushik@gmail.com,frontend,Project 982,I'm regretting hiring kaushik@gmail.com for the frontend project. The quality of work was poor.,Negative
+raghav@gmail.com,raghav@gmail.com,frontend,Project 983,The frontend work done by raghav@gmail.com was exceptional. I'm impressed!,Positive
+kaushik@gmail.com,nishtha@gmail.com,docs,Project 984,"The docs work done by nishtha@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+anushka@gmail.com,test@gmail.com,figma,Project 985,I'm extremely satisfied with the figma developed by test@gmail.com. Thank you so much!,Positive
+test@gmail.com,anushka@gmail.com,website,Project 986,The website work done by anushka@gmail.com surpassed my expectations. Highly impressed!,Positive
+kaushik@gmail.com,test@gmail.com,website,Project 987,I'm delighted with the website project delivered by test@gmail.com. It's perfect!,Positive
+anushka@gmail.com,anushka@gmail.com,website,Project 988,I'm very satisfied with the website created by anushka@gmail.com. Excellent work!,Positive
+raghav@gmail.com,raghav@gmail.com,website,Project 989,The website provided by raghav@gmail.com was a complete disaster. I wouldn't recommend them to anyone.,Negative
+kaushik@gmail.com,anushka@gmail.com,backend,Project 990,I'm neutral about the backend project delivered by anushka@gmail.com. It was neither exceptional nor disappointing.,Positive
+nishtha@gmail.com,anushka@gmail.com,ppt,Project 991,"The ppt work done by anushka@gmail.com was okay. It didn't exceed expectations, but it wasn't terrible either.",Neutral
+raghav@gmail.com,kaushik@gmail.com,ppt,Project 992,ppt created by kaushik@gmail.com is exactly what I wanted. Great job!,Neutral
+anushka@gmail.com,test@gmail.com,backend,Project 993,The backend provided by test@gmail.com was top-notch. I'm very happy with the result.,Neutral
+anushka@gmail.com,test@gmail.com,figma,Project 994,The figma work done by test@gmail.com surpassed my expectations. Highly impressed!,Positive
+anushka@gmail.com,test@gmail.com,frontend,Project 995,I'm indifferent about the frontend project provided by test@gmail.com. It neither impressed nor disappointed me.,Positive
+test@gmail.com,kaushik@gmail.com,figma,Project 996,kaushik@gmail.com provided an okay figma project. It was neither good nor bad.,Neutral
+anushka@gmail.com,kaushik@gmail.com,app,Project 997,The app work done by kaushik@gmail.com was subpar. I regret hiring them for this project.,Negative
+raghav@gmail.com,raghav@gmail.com,backend,Project 998,The backend provided by raghav@gmail.com was satisfactory. It met my requirements.,Neutral
+anushka@gmail.com,test@gmail.com,backend,Project 999,The backend provided by test@gmail.com was professional and efficient. Thank you!,Positive
